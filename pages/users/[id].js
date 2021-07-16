@@ -4,7 +4,7 @@ export default function User(){
     return(
       <div>
         <h1>Details USERS</h1>
-        <p>User ID: {router.query.user} </p>
+        <p>User ID: {router.query.id} </p>
       </div>
     )
   }

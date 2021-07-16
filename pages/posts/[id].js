@@ -4,7 +4,7 @@ export default function User(){
     return(
       <div>
         <h2>Details POST</h2>
-        <p>POST ID: {router.query.post} </p>
+        <p>POST ID: {router.query.id} </p>
       </div>
     )
   }
