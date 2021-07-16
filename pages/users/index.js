@@ -1,10 +1,12 @@
 import Navbar from "../../components/navbar";
+import Title from "../../components/title";
 
 export default function Users(){
     return(
       <div>
          <Navbar />
-        <h1>Hello USERS</h1>
+        <Title>Hello USERS</Title>
+        <p>USERSUSERSUSERSUSERSUSERSUSERSUSERS</p>
       </div>
     )
   }

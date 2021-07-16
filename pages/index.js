@@ -1,10 +1,11 @@
 import Navbar from "../components/navbar"
+import Title from "/components/title";
 
 export default function Home(){
   return(
     <div>
       <Navbar />
-      <h1>Hello world</h1>
+      <Title>Hello world</Title>
       <p>Hola mundo</p>
     </div>
   )

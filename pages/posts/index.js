@@ -1,10 +1,12 @@
 import Navbar from "../../components/navbar";
+import Title from "../../components/title";
 
 export default function Posts(){
     return(
       <div>
          <Navbar />
-        <h1>POST</h1>
+        <Title> POSTEAR </Title>
+        <p>POSTPOSTPOSTPOSTPOSTPOST</p>
       </div>
     )
   }
