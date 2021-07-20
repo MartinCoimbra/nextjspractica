@@ -66,6 +66,8 @@ export default function Posts({ posts }) {
           }
         `}
       </style>
+
+    
     </Layout>
   );
 }
